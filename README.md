@@ -1,5 +1,5 @@
-# NGS1 project
-sequence alignment tutorial
+# NGS1 
+data analysis project
 
 
 
