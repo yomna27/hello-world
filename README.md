@@ -1,6 +1,5 @@
-# hello-world
-just another reprository
+# NGS1 project
+sequence alignment tutorial
 
-hi there
 
-i am interested in github
+
